@@ -3,7 +3,7 @@ In order to find which mushrooms are safe to eat, the Decision Tree classificati
 
 Report: [Decision Tree - Mushrooms Selection](https://ancapitigoi.github.io/mushrooms-selection/)
 
-Code:
+Code: [Decision Tree - Mushrooms Selection Code](https://github.com/AncaPitigoi/mushrooms-selection/blob/main/Decision%20Tree%20-%20Mushroom.R)
 
 Skills: data cleaning, data visualization, classification, decision tree
 
